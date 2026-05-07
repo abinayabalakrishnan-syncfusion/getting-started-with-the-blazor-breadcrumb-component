@@ -1,7 +1,5 @@
-
 # Getting Started with the Blazor Breadcrumb Component
 
-**Repository Description**  
 This repository contains a quick‑start Blazor WebAssembly sample that demonstrates how to use the Syncfusion Blazor Breadcrumb component to provide intuitive, hierarchical navigation in web applications.
 
 The [Blazor Breadcrumb](https://www.syncfusion.com/blazor-components/blazor-breadcrumb?utm_source=github&utm_medium=listing&utm_campaign=blazor-breadcrumb-github-samples) is a graphical user interface component that serves as a navigation header for your web application or site. This project contains example code to configure common features such as adding items, icons, navigation, menu modes, hidden modes, and custom templates.
